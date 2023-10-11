@@ -8,6 +8,11 @@ body{
     color: #f8f7ff;
     
 }
+#page-navbar, #navbar-topbottom{
+    background-color: #f8f7ff;
+}
+
+
 
 #login-h1 {
     padding-top: 15px;
