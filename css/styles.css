@@ -4,5 +4,18 @@ html{
 
 body{
     height:100%;
-    background-color: beige;
+    background-color: #03045e;
+    color: #f8f7ff;
+    
+}
+
+#login-h1 {
+    padding-top: 15px;
+}
+
+#login-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
