@@ -5,6 +5,9 @@ html{
 body{
 }
 
+h1 {
+    
+}
 .home-body, .products-body {
     background-color: #edf6f9;
 }
@@ -19,8 +22,15 @@ body{
 
 
 /**Navigation Bar**/ 
+#navbar-title {
+    margin-left: 340px;
+    margin-right: auto;
+}
+
 #page-navbar, #navbar-topbottom {
     background-color: #caf0f8;
+    border-radius: 30px;
+    margin: 0 15px 0;
 }
 
 /**Home**/ 
