@@ -3,27 +3,28 @@ html{
 }
 
 body{
-    height:100%;
-    color: #090233;
-    
 }
 
-.home-body {
-    background-color: rgb(56, 75, 92);
+.home-body, .products-body, .checkout-body  {
+    background-color: #edf6f9;
+}
+
+.register-body, .login-body, .passreset-body {
+    background-color: #006d77;
 }
 
 /**Navigation Bar**/ 
 #page-navbar, #navbar-topbottom {
-    background-color: #f8f7ff;
+    background-color: #83c5be;
 }
 
 /**Home**/ 
 #home-text {
-    
+    padding-top: 30px;
 }
 
 #costumers {
-
+    padding-bottom: 20px;
 }
 
 
@@ -46,6 +47,11 @@ body{
 /**Login**/
 #login-h1 {
     padding-top: 15px;
+}
+
+#login-card {
+    background-color: #3c3744;
+    margin: 20px;
 }
 
 #login-image {
