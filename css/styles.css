@@ -5,17 +5,22 @@ html{
 body{
 }
 
-.home-body, .products-body, .checkout-body  {
+.home-body, .products-body {
     background-color: #edf6f9;
 }
 
 .register-body, .login-body, .passreset-body {
-    background-color: #006d77;
+    background-color: #edf6f9;
 }
+
+.checkout-body {
+    background-color: #83c5be;
+}
+
 
 /**Navigation Bar**/ 
 #page-navbar, #navbar-topbottom {
-    background-color: #83c5be;
+    background-color: #caf0f8;
 }
 
 /**Home**/ 
@@ -28,17 +33,14 @@ body{
 }
 
 
-
 /**Products**/
 
 #products {
     background-color: #03045e;
 }
 #product-cards {
-    color: aqua;
-    background-color: #03045e;
+    
 }
-
 
 
 /**Sign Up**/
@@ -50,8 +52,12 @@ body{
 }
 
 #login-card {
-    background-color: #3c3744;
-    margin: 20px;
+    background-color: #83c5be;
+    margin: 25px;
+}
+
+#login-card-text {
+    color: #006d77;
 }
 
 #login-image {
@@ -61,5 +67,12 @@ body{
     width: 50%;
 }
 
+/**Reset password**/
+#reset-card {
+    margin: 20px;
+}
+
 
 /**Checkout**/
+
+
