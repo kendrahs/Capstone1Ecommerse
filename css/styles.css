@@ -4,16 +4,46 @@ html{
 
 body{
     height:100%;
-    background-color: #03045e;
-    color: #f8f7ff;
+    color: #090233;
     
 }
-#page-navbar, #navbar-topbottom{
+
+.home-body {
+    background-color: rgb(56, 75, 92);
+}
+
+/**Navigation Bar**/ 
+#page-navbar, #navbar-topbottom {
     background-color: #f8f7ff;
 }
 
+/**Home**/ 
+#home-text {
+    
+}
+
+#costumers {
+
+}
 
 
+
+/**Products**/
+
+#products {
+    background-color: #03045e;
+}
+#product-cards {
+    color: aqua;
+    background-color: #03045e;
+}
+
+
+
+/**Sign Up**/
+
+
+/**Login**/
 #login-h1 {
     padding-top: 15px;
 }
@@ -24,3 +54,6 @@ body{
     margin-right: auto;
     width: 50%;
 }
+
+
+/**Checkout**/
