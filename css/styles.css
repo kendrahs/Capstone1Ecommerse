@@ -6,7 +6,11 @@ body{
 }
 
 h1 {
-    
+    text-align: center;
+}
+#ks-crochet {
+    padding: 10px 0px;
+    text-align: center;
 }
 .home-body, .products-body {
     background-color: #edf6f9;
@@ -23,8 +27,8 @@ h1 {
 
 /**Navigation Bar**/ 
 #navbar-title {
-    margin-left: 340px;
-    margin-right: auto;
+    text-align: right;
+    font-size: small;
 }
 
 #page-navbar, #navbar-topbottom {
@@ -62,13 +66,10 @@ h1 {
 }
 
 #login-card {
-    background-color: #83c5be;
+    background-color: #006d77;
     margin: 25px;
 }
 
-#login-card-text {
-    color: #006d77;
-}
 
 #login-image {
     display: block;
@@ -80,6 +81,16 @@ h1 {
 /**Reset password**/
 #reset-card {
     margin: 20px;
+    background-color: #006d77;
+    color: #edf6f9;
+}
+
+
+#reset-button {
+    background-color: #83c5be;
+    color: #03045e;
+    margin-top: 10px;
+    border-radius: 20px;
 }
 
 
