@@ -58,6 +58,10 @@ h1 {
 
 
 /**Sign Up**/
+#signup-card {
+    background-color: #006d77;
+    color: #edf6f9;
+}
 
 
 /**Login**/
