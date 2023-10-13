@@ -11,8 +11,12 @@ Home-index.html
 Products-products.html
 >Showcasing products using cards that include photo, description, add to card styled link
 Images used for proucts in productimages.html file
-![GitHub Image](/productimages/bee.jpg)
-
+![GitHub](http://url/to/bee.png)
+![alt text](http://url/to/cow.png)
+![alt text](http://url/to/duck.png)
+![alt text](http://url/to/fish.png)
+![alt text](http://url/to/frog.png)
+![alt text](http://url/to/turtle.png)
 
 Sign Up-register.html
 >Sign up page where user must enter personal information.
