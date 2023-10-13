@@ -2,9 +2,6 @@ html{
     height: 100%;
 }
 
-body{
-}
-
 h1 {
     text-align: center;
 }
@@ -52,9 +49,7 @@ h1 {
 #products {
     background-color: #03045e;
 }
-#product-cards {
-    
-}
+
 
 
 /**Sign Up**/
