@@ -3,13 +3,6 @@ Learn To Code (Capstone week1)
 ---
 This project was made to help me practice using HTML, CSS, and Bootstrap by creating a static e-commerse webpage. I also created an extra page for the users who don't have accounts to sign up.
 
-<<<<<<< HEAD
-Pages Overview:
-Home- 
-Products- 
-Sign Up- 
-Log In- 
-Checkout- 
 =======
 Pages Overveiw:
 Home-index.html
@@ -18,12 +11,8 @@ Home-index.html
 Products-products.html
 >Showcasing products using cards that include photo, description, add to card styled link
 Images used for proucts in productimages.html file
-![alt text](http://url/to/bee.png)
-![alt text](http://url/to/cow.png)
-![alt text](http://url/to/duck.png)
-![alt text](http://url/to/fish.png)
-![alt text](http://url/to/frog.png)
-![alt text](http://url/to/turtle.png)
+![GitHub Image](/productimages/bee.jpg)
+
 
 Sign Up-register.html
 >Sign up page where user must enter personal information.
@@ -32,10 +21,7 @@ Log In-login.html
 >Log in page for user to enter username and password. Also a reset password link.
 
 Checkout-checkout.html
->The user is brought to checkout after clicking add to card. This page showcases the prices of each product, the total, and 
->>>>>>> 201421d49f4f904966731e1ef808b465ef509c1f
-
-
+>The user is brought to checkout after clicking add to card. This page showcases the prices of each product, the total, and billing info boxes.
 
 
 
