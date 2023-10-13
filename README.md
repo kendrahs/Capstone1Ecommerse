@@ -18,12 +18,12 @@ Home-index.html
 Products-products.html
 >Showcasing products using cards that include photo, description, add to card styled link
 Images used for proucts in productimages.html file
-https://github.com/[kendrahs]/[Capstone1Ecommerse]/blob/[main]/cow.jpg?raw=true
-https://github.com/[kendrahs]/[Capstone1Ecommerse]/blob/[main]/bee.jpg?raw=true
-https://github.com/[kendrahs]/[Capstone1Ecommerse]/blob/[main]/duck.jpg?raw=true
-https://github.com/[kendrahs]/[Capstone1Ecommerse]/blob/[main]/fish.jpg?raw=true
-https://github.com/[kendrahs]/[Capstone1Ecommerse]/blob/[main]/frog.jpg?raw=true
-https://github.com/[kendrahs]/[Capstone1Ecommerse]/blob/[main]/turtule.jpg?raw=true
+![alt text](http://url/to/bee.png)
+![alt text](http://url/to/cow.png)
+![alt text](http://url/to/duck.png)
+![alt text](http://url/to/fish.png)
+![alt text](http://url/to/frog.png)
+![alt text](http://url/to/turtle.png)
 
 Sign Up-register.html
 >Sign up page where user must enter personal information.
